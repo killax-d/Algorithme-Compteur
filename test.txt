@@ -1,0 +1,4 @@
+Il est important de tester régulièrement un programme en cours de développement. 
+Lorsque celui-ci comportera beaucoup de code, il sera bien plus difficile de détecter et réparer une erreur, alors que cela est aisé lorsque le programme ne fait encore que quelques lignes. Pensez à véfirier que tous les cas sont prévus, tout spécialement les signes de ponctuations qui doivent être ôtés de chaque mot, les apostrophes (même si cela sera peu commode pour les mots comme "aujourd'hui"), et la casse qu'il faut ignorer. 
+
+Attention également à tester tous les cas, comme celui des trois points de suspension... (il y en a d'autres !!).

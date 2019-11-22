@@ -1,0 +1,3 @@
+bin/*
+.idea
+src/fr/apa/compteur/CompteurAbstract.java
